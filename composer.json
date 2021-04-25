@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ivopetkov/html5-dom-document-php": "2.*",
+        "joetannenbaum/alfred-workflow": "^0.1.2"
+    }
+}
